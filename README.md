@@ -68,7 +68,7 @@ The dashboard provides interactive visualizations to support HR decision-making.
 
 ## 📷 Dashboard Preview
 
-![HR Dashboard](Screenshots/Dashboard.png)
+![HR Dashboard](Screenshot/Dashboard.png)
 
 ---
 
